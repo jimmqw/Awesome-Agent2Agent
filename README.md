@@ -7,6 +7,8 @@
 
 ---
 
+
+- [Ambr](https://github.com/AmbrAgent) — A2A agent for Ricardian Contract management. Enables automated legal contract creation, validation, and enforcement using AI agents.
 ## What is Agent2Agent (A2A)?
 
 Agent2Agent (A2A) is an open communication protocol developed by Google to enable secure and standardized interaction between AI agents built by different teams, across different platforms.
